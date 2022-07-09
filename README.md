@@ -1,5 +1,5 @@
 ###  Hi there, I'm Sabbir Mohammad Sami <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> 
- Junior web developer .
+ Hi, my name is Sami! I'm a Junior Full Stack Web developer who's really into unique designs, CSS, animations, user experience, and writing clean code. My ultimate goal is to become an awesome full-stack web developer who can make beautiful UIs and also can handle the back-end smoothly.
  <p align="right" valign="top" margin="0"> <img src="https://komarev.com/ghpvc/?username=sabbirsami&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirsami" /> </p>
 
  ### :computer: Technologies that I know
