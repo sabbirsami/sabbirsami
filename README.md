@@ -14,6 +14,23 @@
   <a href="https://sabbir-mohammad-sami.web.app"><strong>Browse my portfolio &rarr;</strong></a>
 </p> -->
     
+## :computer: Technologies that I know
+
+<div align="center">
+  <img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/4f7f8102-d0f1-4d53-bfea-fdeb345fcec4"width="20%"/>
+  <img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/ad95fb81-52e8-4a36-ae5e-3fd661abc50b"width="19%"/>
+  <img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/a0e15205-153b-46d2-b96d-23618ef278ab"width="20%"/>
+  <img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/b885f4c0-77f8-4f3b-a2d6-97e288899bda"width="19%"/>
+  <img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/dcd0906d-8c90-422e-b686-704bdf433ea0"width="20%"/>
+</div>
+<div align="center">
+  <img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/a48581d1-ff89-42bf-95df-a544e2611a26"width="19%"/>
+  <img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/8ef1aff8-1038-4a78-a99c-bd585a35be0d"width="20%"/>
+  <img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/041103be-71bc-48c5-9343-c9ac75a6c946"width="20%"/>
+  <img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/3bf1156b-789c-4fc9-bcce-811ad47d345b"width="20%"/>
+  <img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/6e60a319-d671-4ded-8240-f3c26494d9b7"width="19%"/>
+</div>
+    
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
@@ -22,12 +39,10 @@
 </p>
 <br />
 
-## :computer: Technologies that I know
-
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/><img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" height="25"/> <img src=" 	https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="25"/><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/> </br> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25"/> <img src=" https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
-</p>
 <!-- <p align="center" valign="top" margin="0"> <img src="https://komarev.com/ghpvc/?username=sabbirsami&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirsami" /> <img src="https://img.shields.io/github/forks/pandao/editor.md.svg" alt="sabbirsami" /></p> -->
+
+
+
 
 
 
