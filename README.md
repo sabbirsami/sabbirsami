@@ -1,7 +1,8 @@
 <p align="center">
   <a href="https://sabbir-mohammad-sami.web.app"  target="_blank">
 <img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/31f860d0-34fb-4e6f-a4d0-e29a5ab28eb2" width="100%" />
-<!-- </a>
+</a>
+<!-- 
   <a href="https://sabbir-mohammad-sami.web.app/#gh-dark-mode-only">
     <img src="#gh-dark-mode-only" alt="Sami" width="400">
   </a>
@@ -30,9 +31,15 @@
 </p>
 <br />
 
+## Social link
+<div align="center">
+   <a href="https://sabbir-mohammad-sami.web.app"  target="_blank"><img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/bc0adbfb-d01f-434a-bcf7-5bd0f17063a0"width="33%"/></a>
+   <a href="https://www.linkedin.com/in/sabbir-mohammad-sami/"  target="_blank"><img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/5ded36de-2c32-4f54-86c6-44a3b7010827"width="33%"/></a>
+   <a href="https://discord.com/users/993823123122171934"  target="_blank"><img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/14a9550b-dca7-4211-94d4-a020b78403a2"width="33%"/></a>
+</div>
+
+
 <!-- <p align="center" valign="top" margin="0"> <img src="https://komarev.com/ghpvc/?username=sabbirsami&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirsami" /> <img src="https://img.shields.io/github/forks/pandao/editor.md.svg" alt="sabbirsami" /></p> -->
-
-
 
 
 
