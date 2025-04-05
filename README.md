@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://sabbir-mohammad-sami.vercel.app/"  target="_blank">
-<img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/31f860d0-34fb-4e6f-a4d0-e29a5ab28eb2" width="100%" />
+<img src="https://github.com/user-attachments/assets/52dbfd23-ad5d-4ab7-9a39-82762b873165" width="100%" />
 </a>
 <!-- 
   <a href="https://sabbir-mohammad-sami.web.app/#gh-dark-mode-only">
@@ -17,10 +17,10 @@
     
 ## 
 <div align="center">
-  <img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/4f7f8102-d0f1-4d53-bfea-fdeb345fcec4"width="20%"/><img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/ad95fb81-52e8-4a36-ae5e-3fd661abc50b"width="20%"/><img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/a0e15205-153b-46d2-b96d-23618ef278ab"width="20%"/><img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/b885f4c0-77f8-4f3b-a2d6-97e288899bda"width="20%"/><img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/dcd0906d-8c90-422e-b686-704bdf433ea0"width="20%"/>
+  <img src="https://github.com/user-attachments/assets/e6cbb955-4253-4fb0-bbbb-a95863a4ba5a"width="20%"/><img src="https://github.com/user-attachments/assets/7d0d3959-197d-4fc9-bb65-00e50253fde5"width="20%"/><img src="https://github.com/user-attachments/assets/5cf85aac-21c9-4563-9cc2-9113c6079d8a"width="20%"/><img src="https://github.com/user-attachments/assets/bcffb59d-fbd9-4d41-ade2-6e6ac94b2b2a"width="20%"/><img src="https://github.com/user-attachments/assets/06f49218-7e60-4143-8981-f600fc169908"width="20%"/>
 </div>
 <div align="center">
-  <img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/a48581d1-ff89-42bf-95df-a544e2611a26"width="20%"/><img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/8ef1aff8-1038-4a78-a99c-bd585a35be0d"width="20%"/><img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/041103be-71bc-48c5-9343-c9ac75a6c946"width="20%"/><img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/3bf1156b-789c-4fc9-bcce-811ad47d345b"width="20%"/><img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/6e60a319-d671-4ded-8240-f3c26494d9b7"width="20%"/>
+  <img src="https://github.com/user-attachments/assets/d2f886e8-39ef-4735-81e1-b3f0e75c39ae"width="20%"/><img src="https://github.com/user-attachments/assets/5d6f30ec-aed0-45d8-bf9a-576d949ace81"width="20%"/><img src="https://github.com/user-attachments/assets/d7fd613c-f3c1-4564-a846-1471c69a1c6d"width="20%"/><img src="https://github.com/user-attachments/assets/2ff26312-d6ef-47dc-81f6-a0e467f8bc87"width="20%"/><img src="https://github.com/user-attachments/assets/0d3a9871-0db3-4b0e-acf4-9d99cffd88b1"width="20%"/>
 </div>
     
 ## 
@@ -31,14 +31,12 @@
 
 ## 
 <div align="center">
-   <a href="https://sabbir-mohammad-sami.vercel.app"  target="_blank"><img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/bc0adbfb-d01f-434a-bcf7-5bd0f17063a0"width="32.8%"/></a>
-   <a href="https://www.linkedin.com/in/sabbir-mohammad-sami/"  target="_blank"><img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/5ded36de-2c32-4f54-86c6-44a3b7010827"width="32.8%"/></a>
-   <a href="https://discord.com/users/993823123122171934"  target="_blank"><img src="https://github.com/sabbirsami/sabbirsami/assets/73050937/14a9550b-dca7-4211-94d4-a020b78403a2"width="32.8%"/></a>
+   <a href="https://sabbir-mohammad-sami.vercel.app"  target="_blank"><img src="https://github.com/user-attachments/assets/0bfddd47-b986-419a-a1e7-7d4bfa852c19"width="32.8%"/></a>
+   <a href="https://www.linkedin.com/in/sabbir-mohammad-sami/"  target="_blank"><img src="https://github.com/user-attachments/assets/52b07f88-9137-4e73-8c0c-924151b24c48"width="32.8%"/></a>
+   <a href="https://discord.com/users/993823123122171934"  target="_blank"><img src="https://github.com/user-attachments/assets/976ad2f5-6952-4d6d-9993-4509736d18be"width="32.8%"/></a>
 </div>
 
 
 <!-- <p align="center" valign="top" margin="0"> <img src="https://komarev.com/ghpvc/?username=sabbirsami&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirsami" /> <img src="https://img.shields.io/github/forks/pandao/editor.md.svg" alt="sabbirsami" /></p> -->
-
-
 
 
