@@ -1,0 +1,34 @@
+name: Streak card
+
+on:
+  schedule:
+    - cron: "5 */3 * * *" # every 3 hours (includes 00:05 in Dhaka, when the day rolls over)
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/scripts/streak-card.mjs"
+      - ".github/workflows/streak-card.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Draw assets/streak.svg
+        run: node .github/scripts/streak-card.mjs
+        env:
+          # Add a GH_TOKEN repo secret (a personal token with read:user) to count private contributions too.
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/streak.svg
+          git diff --cached --quiet || (git commit -m "Update streak card" && git push)
